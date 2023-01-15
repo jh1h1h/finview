@@ -1,1 +1,1 @@
-web: ng serve --port $PORT --host 0.0.0.0
+web: npm install -g @angular/cli
